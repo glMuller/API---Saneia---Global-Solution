@@ -91,3 +91,5 @@ Para um broker privado, configure `Mqtt__Host`, `Mqtt__Port`, `Mqtt__Tls=true`, 
 ## Verificação
 
 Os testes xUnit usam SQLite temporário e simulam o catálogo Java para cobrir regras de estado, expiração/assinatura do JWT, papéis, paginação, idempotência concorrente, validação, rate limiting, Health Checks e OpenAPI. O teste manual local usa o Java real e seu JWT no Swagger ou no arquivo de requisições do Rider.
+
+Uso de IA: Inteligência Artificial foi utilizada para auxiliar em momentos que fiquei travado no código e para corrigir erros inesperados, mas sempre entendendo o o motivo do código gerada por ela.
